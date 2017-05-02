@@ -1,0 +1,23 @@
+body {
+  padding: 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.alert {
+  font-size: 2rem;
+}
+
+th, td {
+  text-align: center;
+}
+
+.little-margin {
+  margin-right: 1rem;
+}
+
+.little-padding {
+  padding: 1rem;
+}
